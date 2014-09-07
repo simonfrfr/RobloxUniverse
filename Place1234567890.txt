@@ -1,0 +1,42 @@
+
+2014/09/06 20:51:11
+4
+Name Terrain Class Terrain Parent Workspace Archivable True
+Name BasePlate Class Part Parent Workspace Archivable True CFrame  X 0 Y -0.61000001430511 Z 0 p.X 0 Y -0.61000001430511 Z 0 lookVector.X -0 lookVector.Y -0 lookVector.Z -1 Size  X 512 Y 1.2000000476837 Z 512
+Name Camera Class Camera Parent Workspace Archivable True
+Name Script Class Script Parent Workspace Archivable True
+
+2014/09/06 20:54:25
+4
+Name Terrain Class Terrain Parent Workspace Archivable True
+Name BasePlate Class Part Parent Workspace Archivable True CFrame  X 0 Y -0.61000001430511 Z 0 p.X 0 Y -0.61000001430511 Z 0 lookVector.X -0 lookVector.Y -0 lookVector.Z -1 Size  X 512 Y 1.2000000476837 Z 512
+Name Camera Class Camera Parent Workspace Archivable True
+Name Script Class Script Parent Workspace Archivable True
+
+2014/09/06 21:12:23
+4
+Name Terrain Class Terrain Parent Workspace Archivable True
+Name BasePlate Class Part Parent Workspace Archivable True CFrame  X 0 Y -0.61000001430511 Z 0 p.X 0 Y -0.61000001430511 Z 0 lookVector.X -0 lookVector.Y -0 lookVector.Z -1 Size  X 512 Y 1.2000000476837 Z 512
+Name Camera Class Camera Parent Workspace Archivable True
+Name Script Class Script Parent Workspace Archivable True
+
+2014/09/06 21:17:03
+4
+Name Terrain Class Terrain Parent Workspace Archivable True
+Name BasePlate Class Part Parent Workspace Archivable True CFrame  X 0 Y -0.61000001430511 Z 0 p.X 0 Y -0.61000001430511 Z 0 lookVector.X -0 lookVector.Y -0 lookVector.Z -1 Size  X 512 Y 1.2000000476837 Z 512
+Name Camera Class Camera Parent Workspace Archivable True
+Name Script Class Script Parent Workspace Archivable True
+
+2014/09/06 21:17:49
+4
+Name Terrain Class Terrain Parent Workspace Archivable True
+Name BasePlate Class Part Parent Workspace Archivable True CFrame  X 0 Y -0.61000001430511 Z 0 p.X 0 Y -0.61000001430511 Z 0 lookVector.X -0 lookVector.Y -0 lookVector.Z -1 Size  X 512 Y 1.2000000476837 Z 512
+Name Camera Class Camera Parent Workspace Archivable True
+Name Script Class Script Parent Workspace Archivable True
+
+2014/09/06 21:18:27
+4
+Name Terrain Class Terrain Parent Workspace Archivable True
+Name BasePlate Class Part Parent Workspace Archivable True CFrame  X 0 Y -0.61000001430511 Z 0 p.X 0 Y -0.61000001430511 Z 0 lookVector.X -0 lookVector.Y -0 lookVector.Z -1 Size  X 512 Y 1.2000000476837 Z 512
+Name Camera Class Camera Parent Workspace Archivable True
+Name Script Class Script Parent Workspace Archivable True
